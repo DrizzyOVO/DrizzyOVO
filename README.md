@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrizzyOVO
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning to master python
+- 🌱 I’m currently learning to master python and if possible eager to learn different languages
 - 💞️ I’m looking to collaborate on projects, solving a real life problem, cool/fun things using python or any other language
 - 📫 How to reach me - My email, gaurav.malpedi17@gmail.com or can reach me on Telegram - @BaggutesInMyIce or Drizzy.
 
