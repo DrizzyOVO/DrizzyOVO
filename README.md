@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrizzyOVO
+- 👋 Hi, I’m Gaurav Malpedi, @DrizzyOVO
 - 👀 I’m interested in Python, websites and apps
 - 🌱 I’m currently learning python and if possible eager to learn different languages
 - 💞️ I’m looking to collaborate on projects, solving a real life problem, cool/fun things using python or any other language
